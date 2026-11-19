@@ -1,0 +1,11 @@
+{
+  "collection": "library_activity_audit_logs",
+  "course": "25ITT31 - Unit 5 (NoSQL Document Store)",
+  "sample_document": {
+    "_id": "ACT-2026-1012",
+    "activity_type": "BOOK_ISSUED",
+    "member": { "register_no": "25IT034", "name": "Student Reg 34", "department": "IT" },
+    "book": { "book_id": 2, "barcode": "BK100235", "title": "Software Engineering" },
+    "fine_rule": "Rs. 5.00/day after due_date"
+  }
+}
